@@ -1,0 +1,27 @@
+¿De qué forma ayuda a ver los errores introducidos la utilización del comando diff entre dos versiones de un archivo?
+1. Me permite focalizar la búsqueda de errores en sitios específicos
+2. Me da una idea general de cual sería la instrucción afectada o del tipo de error que cometí
+
+¿Cómo es que el acceso sencillo a la historia de un archivo puede mejorar a un programador en el largo plazo?
+1. Le permite recordar y memorizar de forma práctica la función de los comandos que utiliza.
+2. Le permite ver como ha sido el desarrollo de su método de trabajo en un programa específico
+3. Le permite ver distintas formas de resolver un problema
+4. Es un tipo de auto reflexión y autoaprendizaje
+
+¿Cuáles son las ventajas y desventajas qué tiene el realizar puntos de control de forma manual frente a realizarlos de forma automática?
+1. Te permite ser más consciente y ordenado en tu trabajo
+2. Mejora la atención y la concentración
+3. Te permite conocer con mayor detalle tu código
+4. Te permite reflexionar y encontrar mejores formas de solucionar tus problemas
+5. Evita focalizarse en modificaciones insignificantes
+
+¿Por qué piensas que algunos sistemas de control de versión como Git te permite salvar múltiples archivos en un commit, mientras otros como Google Docs resguardan archivos de forma separada?
+1. Porque la naturaleza de los archivos lo permiten. En google docs no es una prioridad almacenar archivos de texto al mismo tiempo; esto representaría una función avanzada.
+
+¿Cómo utilizarías el comando git log y git diff para ver el historial de los archivos?
+1. Con la primera instrucción localizaría el ID, la fecha y la descripción de los cambios
+2. Con la segunda instrucción vería los cambios hechos entre cada modificación
+
+¿Qué tanta confianza brinda un sistema de control de versión para realizar cambios que pueden echar a perder un programa?
+1. Es posible acceder a versiones anteriores que se sabe que funcionan correctamente. Cada commit debería tener una frase de que todo quedó funcionando correctamente
+2. Al ser código, es más sencillo encontrar diferencias y cambios entre archivos. En otro tipo de archivos es necesario tener un formato más formal o generalizado.
