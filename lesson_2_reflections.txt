@@ -1,0 +1,9 @@
+¿Qué pasa cuando se inicia un repositorio? ¿Por qué es necesario hacerlo?
+1. Se genera un archivo denominado .git en el directorio seleccionado
+2. Es necesario porque no es posible almacenar archivos de forma automática en un repositorio
+
+¿Cuál es la diferencia entre staging area y el working area y el repositorio? ¿Qué beneficios ofrece?
+1. Staging area permite indicar/resaltar que archivos integrarán cada commit deseado
+2. El working area tiene a todos los documentos sin ninguna distinción; el repository sólo tiene a aquéllos que conforman un commit
+3. La ventaja de staging area es que permite elegir cuales archivos irán al commit y cuáles no
+
