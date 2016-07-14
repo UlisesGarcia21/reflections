@@ -8,3 +8,8 @@
 2. Porque así se evita la introducción de malware o software malintencionado
 3. Porque así la descarga de archivos es más controlada y consciente por parte del propietario
 4. Porque así existe mejor control en el historial de actualizaciones o modificaciones a un archivo
+
+Describir las diferencias entre forks, clones y branches. ¿Cuándo utilizarías uno en lugar de otro?
+1. Forking sirve para copiar el repositorio de un usuario directamente desde GitHub sin realizar una copia en el servidor local. Lo utilizo cuando deseo realizar copias de archivos a los cuales no puedo acceder o quiero realizar modificaciones pero sin alterar los originales.
+2. Cloning sirve para copiar un repositorio de un servidor remoto a mi servidor local. Cuando deseo trabajar en mi servidor local o deseo compartir un archivo con alguien más.
+3. Branching es una forma de llamar a un historial particular de un conjunto de commits en un servidor local. Cuando deseo trabajar de forma colaborativa en tiempos diferentes.
