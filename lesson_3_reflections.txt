@@ -2,3 +2,9 @@
 1. Cuando se está trabajando con otros compañeros que realizan modificaciones distintas en momentos diferentes
 2. Cuando tengo que trabajar en otro servidor, por ejemplo, desde mi oficina y no puedo transportar mi computadora
 3. Cuando tengo que trabajar ambulatoriamente, es decir, sin un lugar fijo ni un servidor fijo
+
+¿Por qué se desearía que siempre la transferencia de los cambios en el servidor remoto sean manuales y no exista una actualización al día automática por parte de Git?
+1. Porque así se evita que el servidor local se llene de información no deseada por el propietario
+2. Porque así se evita la introducción de malware o software malintencionado
+3. Porque así la descarga de archivos es más controlada y consciente por parte del propietario
+4. Porque así existe mejor control en el historial de actualizaciones o modificaciones a un archivo
