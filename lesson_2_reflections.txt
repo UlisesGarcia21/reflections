@@ -28,3 +28,8 @@
 1. Se unifican los commits de ambas ramas
 2. Las características eliminadas en alguna rama desaparecen, mientras que aquellas anexadas aparecen en el commit final.
 
+¿Cuáles son los pros y los contras de la mezcla automática de Git contra siempre hacer mezclas manuales?
+1. Una ventaja es que reduce el tiempo de trabajo para revisar cosas que pueden ser obvias para los usuarios
+2. Otra ventaja es que introduce cambios de ambos usuarios sin modificar realmente el buen funcionamiento del programa
+3. Una desventaja es que quizás haya código redundante en el archivo final
+4. Otra desventaja es que algunas veces pueden heredarse errores sin notificarse
