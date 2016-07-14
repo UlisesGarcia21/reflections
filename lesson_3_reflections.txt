@@ -1,0 +1,4 @@
+¿Cuándo se desea utilizar un servidor remoto en lugar de mantener todo el trabajo en un servidor local?
+1. Cuando se está trabajando con otros compañeros que realizan modificaciones distintas en momentos diferentes
+2. Cuando tengo que trabajar en otro servidor, por ejemplo, desde mi oficina y no puedo transportar mi computadora
+3. Cuando tengo que trabajar ambulatoriamente, es decir, sin un lugar fijo ni un servidor fijo
