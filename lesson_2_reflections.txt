@@ -7,3 +7,20 @@
 2. El working area tiene a todos los documentos sin ninguna distinción; el repository sólo tiene a aquéllos que conforman un commit
 3. La ventaja de staging area es que permite elegir cuales archivos irán al commit y cuáles no
 
+¿Cómo utilizarías el staging area para asegurar que todo cambio lógico haya sido almacenado?
+1. Primero colocaría en el staging area todo cambio que haya realizado
+2. Luego compararía con git diff --staged el commit más reciente con lo que estoy a punto de hacer
+3. Analizaría si vale la pena realizar un commit y listo
+
+¿En qué situaciones son útiles las ramas para mantener tu historial organizado? ¿Cómo ayudan las ramas?
+1. Cuando quiero realizar una versión experimental de un archivo, es decir, quiero probar otra funcionalidad
+2. Cuando quiero reparar un error, no estoy seguro de lo que pasara pero creo que algo más podría descomponerse.
+3. Cuando quiero probar funcionalidades distintas por separado
+4. Cuando se está generando un código por separado entre varias personas
+5. Cuando se desea mejorar un archivo original y que es propiedad de otra persona
+
+¿Cómo ayudan los diagramas a visualizar la estructura de ramas?
+1. Permiten ver la linealidad de una serie histórica de versiones
+2. Permiten identificar aquellas ramas que no son alcanzables, es decir, no tienen impacto en las otras ramas
+3. Se puede identificar algún punto donde deseo crear una rama y se puede predecir la secuencia siguiente
+
