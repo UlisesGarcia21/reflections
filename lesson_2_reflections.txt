@@ -24,3 +24,7 @@
 2. Permiten identificar aquellas ramas que no son alcanzables, es decir, no tienen impacto en las otras ramas
 3. Se puede identificar algún punto donde deseo crear una rama y se puede predecir la secuencia siguiente
 
+¿Cuál es el resultado de mezclar dos ramas? ¿Por qué se representa en el diagrama cómo se hizo?
+1. Se unifican los commits de ambas ramas
+2. Las características eliminadas en alguna rama desaparecen, mientras que aquellas anexadas aparecen en el commit final.
+
