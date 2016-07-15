@@ -23,3 +23,9 @@ Describir las diferencias entre forks, clones y branches. ¿Cuándo utilizarías
 1. Para generación de código, creo que es mejor Git y GitHub.
 2. Para colaboración, utilizaría correo electrónico con descripción de los cambios realizados.
 3. Otro medio serían las redes sociales, aunque el orden de los cambios y las modificaciones sería díficil de conseguir.
+
+¿Cuándo quisieras hacer cambios en una rama separada en lugar de hacerlos directamente en la master? ¿Qué beneficios tiene cada aproximación?
+1. Cuando deseo experimentar características que sólo quiero para mí
+2. Cuando deseo mejorar una versión pública
+3. El compartir en la rama amo me permite trabajar de forma colaborativa
+4. El tener la opción de la rama me permite trabajar de forma individual
