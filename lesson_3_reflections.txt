@@ -18,3 +18,8 @@ Describir las diferencias entre forks, clones y branches. ¿Cuándo utilizarías
 1. Se pueden identificar que cambios se han realizado y no fueron de mi autoría
 2. Se tiene un control más flexible del historial de actualizaciones y/o cambios
 3. Se puede actualizar de forma más sencilla y consciente
+
+¿Cómo colaborarías sin utilizar Git o GitHub? ¿Qué sería más fácil y que sería más complicado?
+1. Para generación de código, creo que es mejor Git y GitHub.
+2. Para colaboración, utilizaría correo electrónico con descripción de los cambios realizados.
+3. Otro medio serían las redes sociales, aunque el orden de los cambios y las modificaciones sería díficil de conseguir.
